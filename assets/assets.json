@@ -1,0 +1,19 @@
+{
+  "image": [
+    {
+      "key": "img",
+      "texture": "img.jpg"
+    },
+    {
+      "key": "player",
+      "texture": "player.png"
+    },
+    {
+      "key": "play",
+      "texture": "play.png"
+    },{
+      "key": "pause",
+      "texture": "pause.png"
+    }
+  ]
+}
