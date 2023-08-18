@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "build": "webpack --config webpack/prod.js ",
-    "start": "webpack-dev-server --config webpack/base.js --port 8081 --open"
+    "start": "webpack-dev-server --config webpack/base.js --open"
   },
   "author": "Satyanarayan Mishra https://www.youtube.com/channel/UC21LONCsiLpYlHXSwdK2XNA",
   "license": "MIT",
